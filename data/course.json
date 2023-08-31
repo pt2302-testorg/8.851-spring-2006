@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ]
+  ],
+  "legacy_uid": "d766012a-34fa-9bda-42d1-b71fa333fb64",
+  "instructors": {
+    "content": [
+      "dbdcb54d-58af-6ac7-ed89-73086fa9e82f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "023795e6-7285-0a64-5155-55458cdf6bb7",
+    "website": "8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006"
+  },
+  "course_title": "Strong Interactions: Effective Field Theories of QCD",
+  "course_description": "This is a course in the construction and application of effective field theories, which are the modern tool of choice in making predictions based on the Standard Model. Concepts such as matching, renormalization, the operator product expansion, power counting, and running with the renormalization group will be discussed. Topics will be taken from factorization in hard processes relevant for the LHC, heavy quark decays and CP violation, chiral perturbation theory, non-relativistic bound states in field theory (QED and QCD), nucleon effective theories with a fine-tuning, and possibly other subjects from QCD, electroweak physics, and gravity.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.851",
+  "course_image_thumbnail": {
+    "content": "2943d97e-7244-9d8d-d449-5cb9462c7a50",
+    "website": "8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "0585cc86-21fa-4078-a302-d10be8d05e17",
+  "site_short_id": "8.851-spring-2006",
+  "title": "Course Metadata"
+}
